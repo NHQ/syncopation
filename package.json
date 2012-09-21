@@ -1,0 +1,23 @@
+{
+  "name": "syncopation",
+  "version": "0.2.0",
+  "description": "syncopation for time based DSP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NHQ/syncopation.git"
+  },
+  "keywords": [
+    "time",
+    "rhythm",
+    "syncopation",
+    "DSP",
+    "baudio",
+    "baudio-party"
+  ],
+  "author": "Johnny Honestly <mostmodernist@gmail.com> (http://johnnyscript.us/)",
+  "license": "MIT"
+}
